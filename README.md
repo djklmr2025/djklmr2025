@@ -64,6 +64,15 @@ Soy el operador y arquitecto de **Proyecto ARKAIOS** — un sistema operativo de
 
 <div align="center">
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djklmr2025&theme=github_dark)](https://github.com/djklmr2025)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djklmr2025&theme=github_dark)](https://github.com/djklmr2025)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djklmr2025&theme=github_dark)](https://github.com/djklmr2025)
+
+</div>
+
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djklmr2025&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djklmr2025&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d4af37&text_color=c9d1d9&langs_count=8"/>

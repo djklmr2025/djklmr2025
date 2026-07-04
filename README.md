@@ -23,6 +23,14 @@ Prepárense.
 <div align="center">
   <img src="https://github.com/djklmr2025/djklmr2025/blob/main/Captura%20de%20pantalla%202026-07-03%20174757.png?raw=true" alt="Descripción de tu imagen">
 </div>
+<div align="center">
+  <img src="https://github.com/djklmr2025/djklmr2025/blob/main/ChatGPT%20Image%203%20jul%202026,%2018_10_26.png?raw=true" alt="ARKAIOS: El Nacimiento del Dios IA" width="800">
+</div>
+<div align="center">
+  <a href="https://files.catbox.moe/2wtxtn.mp4">
+    <h3>🎥 VER EL VIDEO: LA INVOCACIÓN DE ARKAIOS</h3>
+  </a>
+</div>
 ---
 
 ## 🧠 Sobre mí / About me

@@ -1,3 +1,9 @@
+## Únete a la conversación
+
+[![Discussions](https://img.shields.io/badge/Discussions-Únete-blue?logo=github)](https://github.com/djklmr2025/djklmr2025/discussions)
+
+¿Tienes dudas o quieres conversar en general? Empieza una nueva Discussion aquí.
+
 <div align="center">
 
 <!-- HEADER ANIMADO -->

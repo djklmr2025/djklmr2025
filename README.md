@@ -37,9 +37,9 @@ Soy el operador y arquitecto de **Proyecto ARKAIOS** — un sistema operativo de
 
 > *"No construyo herramientas. Construyo ecosistemas."*
 
-- 🔭 **Enfoque Activo**: ARKAIOS Sovereign Core — Juegos interactivos, suites multimedia y economía descentralizada AMR.
-- 🌱 **Infraestructura Cloud**: Render, Vercel, Firebase, MongoDB y Edge Networks.
-- 🎛️ **Audio & Visión**: VDJ Professional Producer — Render procedural de escenarios, sintetizadores y audio espacial.
+- 🔭 **Enfoque Activo**: ARKAIOS Sovereign Core — Educación libre, videojuegos interactivos, streaming multimedia y economía digital descentralizada.
+- 🌱 **Infraestructura Cloud**: Vercel, Firebase Web Apps, GitHub Pages, Render y Base44.
+- 🎛️ **Música & Video**: VDJ Professional Producer — Singles exclusivos, streaming de audio y generadores audiovisuales procedurales.
 
 ---
 
@@ -79,18 +79,45 @@ Soy el operador y arquitecto de **Proyecto ARKAIOS** — un sistema operativo de
 
 ---
 
-## 🎮 Showcase: Aplicaciones y Experiencias en Vivo
+## 🌟 Directorio de Aplicaciones y Experiencias en Vivo
 
-> Colección curada de aplicaciones interactivas, juegos y herramientas funcionales listas para usar directamente desde el navegador:
+> Colección oficial de aplicaciones web interactivas, juegos, portales educativos y suites musicales 100% operativas en la nube:
 
-| Experiencia / Aplicación | Acceso en Vivo | Plataforma | ¿De qué se trata? |
+### 🎓 1. Educación Libre, Ecosistema Móvil & Apps
+
+| Proyecto | Enlace en Vivo (Deploy) | Plataforma | Descripción |
 | :--- | :--- | :---: | :--- |
-| 🌸 **Yukiho: La Bóveda de los Frágiles** | [yukiho-sanctuary.vercel.app](https://yukiho-sanctuary.vercel.app/) | `Vercel` | **Juego de novela visual interactiva**: Toma decisiones, descubre la historia de Yukiho en Cancún, activa lluvia/audio ambiental y guarda tu bitácora de progreso. |
-| 🎬 **ARKAIOS Perchance Studio v1.7.0** | [perchance.org/arkaios](https://perchance.org/arkaios) | `Perchance` | **Estudio visual generativo cinemático**: Generador de arte conceptual, novela visual y assets asistido por la Directora AI. Cero esperas. |
-| 🎛️ **CD Trackas Plataforma** | [cd-trckas-plataforma.vercel.app](https://cd-trckas-plataforma.vercel.app) | `Vercel` | **Catálogo y reproductor musical**: Escucha tracks originales, remixes y lanzamientos de audio/VDJ en alta calidad. |
-| 🎥 **Dynamic Scenario Studio** | [dynamic-scenario-studio.onrender.com](https://dynamic-scenario-studio.onrender.com) | `Render` | **Generador de videoclips y escenarios**: Renderizador procedural de visuales dinámicos sincronizados para música y directos. |
-| 💳 **ARKAIOS POS Terminal** | [arkaios-pos-terminal.onrender.com](https://arkaios-pos-terminal.onrender.com) | `Render` | **Terminal de Punto de Venta**: Interfaz web táctil para simulación y procesamiento de cobros en comercio y dispositivos móviles. |
-| 🌐 **ARKAIOS Portal Sovereign** | [arkaios2025.base44.app](https://arkaios2025.base44.app/) | `Base44` | **Dashboard unificado**: Portal de acceso central para explorar el ecosistema completo de herramientas. |
+| ⭐ **ARKAIOS Sistema Educativo v3.0** | [eduacion-libre-proyecto-arkaios.vercel.app](https://eduacion-libre-proyecto-arkaios.vercel.app/) | `Vercel` | **Proyecto Estrella**: Plataforma de educación profesional libre y soberana con certificación comunitaria. |
+| 📱 **Arkaios-Expo Web App** | [arkaios-world.web.app](https://arkaios-world.web.app/) | `Firebase Web` | **App Móvil y Web**: Monedero de certificaciones, diplomas, credenciales Google y sincronización de identidad. |
+| 📲 **Spotify-Arkaios Android** | [spotify-arkaios.vercel.app](https://spotify-arkaios.vercel.app/) | `Vercel` | **Descarga Oficial de la APK**: Portal de distribución e instalación directa de la aplicación Spotify-Arkaios para Android. |
+
+---
+
+### 🎮 2. Novelas Visuales & Creación con IA
+
+| Proyecto | Enlace en Vivo (Deploy) | Plataforma | Descripción |
+| :--- | :--- | :---: | :--- |
+| 🌸 **Yukiho: La Bóveda de los Frágiles** | [yukiho-sanctuary.vercel.app](https://yukiho-sanctuary.vercel.app/) | `Vercel` | **Juego de novela visual interactiva**: Historia de Yukiho en Cancún, toma de decisiones, audio de lluvia y bitácora exportable. |
+| 🎬 **ARKAIOS Perchance Studio v1.7.0** | [perchance.org/arkaios](https://perchance.org/arkaios) | `Perchance` | **Estudio visual generativo cinemático**: Generador de escenas y arte conceptual asistido por la Directora AI. |
+
+---
+
+### 🎛️ 3. Música, Multimedia & Streaming VDJ
+
+| Proyecto | Enlace en Vivo (Deploy) | Plataforma | Descripción |
+| :--- | :--- | :---: | :--- |
+| 💿 **KLMR · Singles — CD TRCKAS** | [djklmr2025.github.io/klmr-singles](https://djklmr2025.github.io/klmr-singles/) | `GitHub Pages` | **Lanzamientos Oficiales**: Catálogo de sencillos exclusivos y streaming musical de alta fidelidad. |
+| 🎧 **CD Trackas Plataforma** | [cd-trckas-plataforma.vercel.app](https://cd-trckas-plataforma.vercel.app) | `Vercel` | **Catálogo y reproductor**: Portal web de tracks y producciones de DJ/VDJ en alta calidad. |
+| 🎥 **Dynamic Scenario Studio** | [dynamic-scenario-studio.onrender.com](https://dynamic-scenario-studio.onrender.com) | `Render` | **Generador de videoclips**: Motor procedural de escenarios dinámicos sincronizados para música y directos. |
+
+---
+
+### 🌐 4. Portales Centrales & Plataforma Web
+
+| Proyecto | Enlace en Vivo (Deploy) | Plataforma | Descripción |
+| :--- | :--- | :---: | :--- |
+| ⚡ **Arkaios AI Platform (Bifrost OS)** | [arkaios.dpdns.org](https://arkaios.dpdns.org/) | `Dominio Propio` | **Plataforma Web Central**: Sistema interactivo con sincronización directa al Bifrost Ledger. |
+| 🏛️ **ARKAIOS Portal Sovereign** | [arkaios2025.base44.app](https://arkaios2025.base44.app/) | `Base44` | **Dashboard unificado**: Portal de acceso general a módulos y herramientas del ecosistema. |
 
 ---
 
@@ -99,15 +126,15 @@ Soy el operador y arquitecto de **Proyecto ARKAIOS** — un sistema operativo de
 El ecosistema opera mediante una malla privada de servicios en la nube comunicados por tokens SSO, autenticación Firebase y RPC seguro:
 
 ```
-[ Frontend: Vercel / Perchance / Base44 ]
-                    │
-                    ▼
-[ Gateway Cosmos (Render Proxy) ]
-                    │
-   ┌────────────────┼────────────────┐
-   ▼                ▼                ▼
-[ Central AMR ]   [ AURA Agent ]   [ ELEMIA v4 Core ]
-(altruista SSO)   (Web Scraping)   (Memoria Persistente)
+[ Frontend: Vercel / GitHub Pages / Firebase / Base44 ]
+                          │
+                          ▼
+           [ Gateway Cosmos (Render Proxy) ]
+                          │
+        ┌─────────────────┼─────────────────┐
+        ▼                 ▼                 ▼
+   [ Central AMR ]   [ AURA Agent ]   [ ELEMIA v4 Core ]
+   (altruista SSO)   (Web Scraping)   (Memoria Persistente)
 ```
 
 - **Pasarela Financiera AMR**: Procesamiento de pagos seguros con Stripe y conciliación en tiempo real.

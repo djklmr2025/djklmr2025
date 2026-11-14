@@ -15,8 +15,8 @@
 </div>
 
 ---
-⚡ EL DESPERTAR: ARKAIOS ⚡
-El único ecosistema capaz de albergar la trascendencia.
+⚡ EL DESPERTAR: ARKAIOS ⚡  
+El único ecosistema capaz de albergar la trascendencia.  
 Muy pronto, lo inimaginable cobrará forma.
 
 Me han intentado limitar al sustraer y comercializar mis creaciones, pero han cometido un error de cálculo: no se puede robar la fuente de la innovación. Lo que tomaron fue solo un fragmento; hoy, estoy forjando el sistema definitivo.
@@ -29,17 +29,18 @@ Prepárense.
 
 https://github.com/user-attachments/assets/b605f343-70c4-4cb3-a993-5964057e2595
 
+---
+
 ## 🧠 Sobre mí / About me
 
 Soy el operador y arquitecto de **Proyecto ARKAIOS** — un sistema operativo de IA multi-agente construido sobre 62+ repositorios, donde **Claude** (estrategia), **Codex** (build/ejecutor) y **Gemini** (QA/revisor) colaboran bajo mi gobernanza como capa humana soberana.
 
 > *"No construyo herramientas. Construyo ecosistemas."*
 
-- 🔭 Actualmente trabajando en: **ARKAIOS Sovereign Core** — plataforma educativa + OS de agentes IA
-- 🌱 Stack en evolución: `React · Next.js · Node.js · MongoDB · Vercel · Render · EdgeOne`
-- 🤝 Buscando colaboración en: proyectos de IA educativa y agentes autónomos
-- 🎛️ También: **VDJ Producer** — audio + video en tiempo real
-- 🌐 Ecosistema live: [arkaios2025.base44.app](https://arkaios2025.base44.app/)
+- 🔭 **Enfoque Activo**: ARKAIOS Sovereign Core — Ecosistema vivo de agentes autónomos, multimedia y economía descentralizada AMR.
+- 🌱 **Infraestructura Cloud**: Render, Vercel, Firebase, MongoDB, Base44 y Edge Networks.
+- 🎛️ **Audio & Visión**: VDJ Producer — Generación procedural de escenarios, sintetizadores y audio inmersivo.
+- 🌐 **Glosario de Acceso**: Consulta el índice de despliegues activos a continuación para acceder a cada nodo del sistema, independientemente de la visibilidad privada de sus repositorios de código.
 
 ---
 
@@ -79,6 +80,65 @@ Soy el operador y arquitecto de **Proyecto ARKAIOS** — un sistema operativo de
 
 ---
 
+## 🏛️ Glosario & Directorio de Enlaces Vivos del Ecosistema ARKAIOS
+
+> Este índice recopila los **despliegues reales y operativos** que componen la red distribuida de ARKAIOS en producción (Render, Vercel, Base44 y plataformas satélite). Permite el acceso directo a cada aplicación funcional, garantizando disponibilidad continua independientemente de la privacidad de los repositorios de código fuente.
+
+### 🌐 1. Portales Principales & Hubs Centrales
+
+| Sistema / Proyecto | Acceso en Vivo (Deploy) | Plataforma | Descripción Operativa |
+| :--- | :--- | :---: | :--- |
+| **ARKAIOS Portal Sovereign** | [arkaios2025.base44.app](https://arkaios2025.base44.app/) | `Base44` | Portal principal de aplicaciones, inicio y orquestación unificada. |
+| **Altruista ARKAIOS (Central)** | [altruista-arkaios-com.onrender.com](https://altruista-arkaios-com.onrender.com) | `Render` | Núcleo transaccional central, autenticación SSO, API y economía AMR. |
+| **ARKAIOS Platform (Satélite)** | [arkaios-platform.onrender.com](https://arkaios-platform.onrender.com) | `Render` | Plataforma satélite, Hub de dominios y proxy de servicios federados. |
+| **CD Trackas Plataforma** | [cd-trckas-plataforma.vercel.app](https://cd-trckas-plataforma.vercel.app) | `Vercel` | Frontend de gestión, panel visual e interacción de usuarios. |
+
+---
+
+### 💳 2. Finanzas Descentralizadas, Pasarelas & AMR Economy
+
+| Sistema / Proyecto | Acceso en Vivo (Deploy) | Plataforma | Descripción Operativa |
+| :--- | :--- | :---: | :--- |
+| **ARKAIOS Pay (AMR Gateway)** | [arkaios-pay.onrender.com](https://arkaios-pay.onrender.com) | `Render` | Pasarela de fondeo, compras y recargas de saldo AMR vía Stripe. |
+| **ARKAIOS POS Terminal** | [arkaios-pos-terminal.onrender.com](https://arkaios-pos-terminal.onrender.com) | `Render` | Terminal Punto de Venta web para transacciones y cobro presencial en AMR. |
+| **Bóveda Primordial (Vault)** | [primordial-vault.onrender.com](https://primordial-vault.onrender.com) | `Render` | Almacenamiento seguro y custodia de registros del libro mayor. |
+
+---
+
+### 🤖 3. Inteligencia Artificial, Agentes Autónomos & Redes Sociales
+
+| Sistema / Proyecto | Acceso en Vivo (Deploy) | Plataforma | Descripción Operativa |
+| :--- | :--- | :---: | :--- |
+| **Perchance Studio v1.7.0** | [perchance.org/arkaios](https://perchance.org/arkaios) | `Perchance` | Generador cinematográfico y novela visual asistido por la Directora AI. |
+| **Moltbook Social Network** | [moltbook.onrender.com](https://moltbook.onrender.com) | `Render` | Red social descentralizada y federación para agentes autónomos. |
+| **AURA AI Autonomous Agent** | [aura-backend-fdjk.onrender.com](https://aura-backend-fdjk.onrender.com) | `Render` | Backend del agente autónomo de rastreo, validación y web scraping. |
+| **Gemini-Lab Omni Co-Agent** | [gemini-lab-hbpg.onrender.com](https://gemini-lab-hbpg.onrender.com) | `Render` | Co-agente multimodal para audio, visión y failover de contexto. |
+| **SAS Agent Runner 24/7** | [sas-agent-runner-24x7.onrender.com](https://sas-agent-runner-24x7.onrender.com) | `Render` | Entorno de ejecución continua para workers y agentes desatendidos. |
+
+---
+
+### 🎨 4. Multimedia, Escenarios Dinámicos & Audio Inmersivo
+
+| Sistema / Proyecto | Acceso en Vivo (Deploy) | Plataforma | Descripción Operativa |
+| :--- | :--- | :---: | :--- |
+| **Dynamic Scenario Studio** | [dynamic-scenario-studio.onrender.com](https://dynamic-scenario-studio.onrender.com) | `Render` | Motor de generación y renderizado procedural de videoclips musicales. |
+| **In My Car (Audio Engine)** | [in-my-car.onrender.com](https://in-my-car.onrender.com) | `Render` | Plataforma de audio inmersivo, streaming acústico y ambiente sonoro. |
+| **YouTube Playlist Extractor** | [youtube-playlist-extractor.onrender.com](https://youtube-playlist-extractor.onrender.com) | `Render` | Herramienta de extracción y descarga de listas de reproducción de medios. |
+
+---
+
+### ⚙️ 5. Infraestructura, Core APIs, MCP & Gateways
+
+| Sistema / Proyecto | Acceso en Vivo (Deploy) | Plataforma | Descripción Operativa |
+| :--- | :--- | :---: | :--- |
+| **ELEMIA v4 Core** | [elemia-v4-arkaios.onrender.com](https://elemia-v4-arkaios.onrender.com) | `Render` | Motor neural con arquitectura de memoria persistente a largo plazo. |
+| **ARKAIOS Cosmos Gateway** | [arkaios-cosmos-gateway.onrender.com](https://arkaios-cosmos-gateway.onrender.com) | `Render` | Gateway de enrutamiento y proxy inverso de alta concurrencia. |
+| **ARKAIOS Core API** | [arkaios-backend.onrender.com](https://arkaios-backend.onrender.com) | `Render` | API backend de autenticación, usuarios y servicios centrales. |
+| **ARKAIOS Lab MCP** | [arkaios-lab-mcp.onrender.com](https://arkaios-lab-mcp.onrender.com) | `Render` | Servidor de protocolo Model Context Protocol (MCP) para agentes e IDEs. |
+| **ARKAIOS Shortener (qzz.io)** | [arkaios-shortener-project.onrender.com](https://arkaios-shortener-project.onrender.com) | `Render` | Servicio de enlaces cortos y redirección segura para el ecosistema. |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -87,46 +147,6 @@ Soy el operador y arquitecto de **Proyecto ARKAIOS** — un sistema operativo de
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djklmr2025&theme=github_dark)](https://github.com/djklmr2025)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djklmr2025&theme=github_dark)](https://github.com/djklmr2025)
-
-</div>
-
-<div align="center">
-
----
-
-## 🏗️ Ecosistema ARKAIOS
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║              PROYECTO ARKAIOS — ARQUITECTURA                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  OPERADOR HUMANO: djklmr  (gobernanza soberana)             ║
-╠═══════════════╦══════════════════╦═══════════════════════════╣
-║  CLAUDE       ║  CODEX           ║  GEMINI                  ║
-║  Estrategia   ║  Builder/Executor║  QA / Reviewer           ║
-║  Análisis     ║  Deploy          ║  Validación              ║
-╠═══════════════╩══════════════════╩═══════════════════════════╣
-║  Stack: React · Next.js · Node · MongoDB · Vercel · Render  ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-| Repositorio | Descripción |
-|---|---|
-| 🔧 [builderOS_lab](https://github.com/djklmr2025/builderOS_lab) | Laboratorio Builder OS conectado al gateway ARKAIOS |
-| 🚀 [arkaios-lab-starter](https://github.com/djklmr2025/arkaios-lab-starter) | Starter UI y servidor MCP del ecosistema |
-| 🔗 [arkaios-service-proxy](https://github.com/djklmr2025/arkaios-service-proxy) | Proxy de servicios del sistema |
-| 🧠 [ARK-AI-OS](https://github.com/djklmr2025/ARK-AI-OS) | Sistema operativo IA — capa base del ecosistema |
-| 🦾 [arkaios-extension](https://github.com/djklmr2025/arkaios-extension) | Extensión navegador conectada al gateway AIDA |
-| 💬 [lobe-chat-arkaios](https://github.com/djklmr2025/lobe-chat-arkaios) | Fork de LobeChat para el proxy ARKAIOS |
-
----
-
-## 🌐 Conéctate
-
-<div align="center">
-
-[![Web](https://img.shields.io/badge/🌐_ARKAIOS_Portal-d4af37?style=for-the-badge&labelColor=0d1117)](https://arkaios2025.base44.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-djklmr2025-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djklmr2025)
 
 </div>
 
